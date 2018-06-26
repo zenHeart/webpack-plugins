@@ -1,0 +1,29 @@
+{
+  "name": "webpack-plugins",
+  "version": "1.0.0",
+  "description": "webpack plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zenHeart/webpack-plugins.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "zenheart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zenHeart/webpack-plugins/issues"
+  },
+  "homepage": "https://github.com/zenHeart/webpack-plugins#readme",
+  "devDependencies": {
+    "babel-jest": "^23.2.0",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^23.2.0",
+    "memory-fs": "^0.4.1",
+    "webpack": "^4.12.1"
+  }
+}
